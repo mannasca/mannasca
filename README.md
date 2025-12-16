@@ -2,12 +2,6 @@
 
 <h3 align="center">🚀 Software Engineering Technology – AI @ Centennial College | Exploring AI/ML & Full Stack Development</h3>
 
-<p align="center">
-  <a href="your-linkedin-url"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="your-portfolio-url"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white" alt="Portfolio"></a>
-</p>
-
 ---
 
 ## 🎓 About Me
