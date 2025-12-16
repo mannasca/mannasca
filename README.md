@@ -64,5 +64,3 @@ Software Engineering Technology (AI) student at Centennial College, building int
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannas23/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.sattar4351@outlook.com)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mannasca&show_icons=true&theme=dark)
