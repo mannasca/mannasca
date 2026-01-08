@@ -72,9 +72,6 @@ Focused on building scalable, data-driven applications using modern frameworks a
 ---
 
 ## Highlight Projects
-**OrbitalSync** — *NASA Space Apps Challenge Winner*  
-- Real-time 3D satellite visualization using Flask, Python, and Three.js  
-
 **DashFleet** — *Predictive Fleet Maintenance*  
 - Full-stack dashboard with React, Node.js, and REST APIs  
 - Improved maintenance efficiency by ~30%
@@ -82,5 +79,6 @@ Focused on building scalable, data-driven applications using modern frameworks a
 ---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/mannas23  
-- Email: anas.sattar4351@outlook.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannas23/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.sattar4351@outlook.com)
+
